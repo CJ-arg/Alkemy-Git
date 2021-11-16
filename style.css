@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(255, 0, 0);
+  background-color: #c4c4c4;
   margin: 0px;
+  max-width: 5rem;
 }
 
 .wrapper {
